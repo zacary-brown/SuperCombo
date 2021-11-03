@@ -1,0 +1,7 @@
+Name,Damage1,Damage2,Damage3,Damage4,Resist,Health,Desc.
+No Item,0,0,0,0,0,0, Empty handed
+Iron Knuckles,2,0,2,0,0,0,Add an extra kick to your punches!
+Chewing Gum,0,5,1,5,0,0,Make your ranged attacks a little stickier.
+Gold Medal,0,0,1,0,0,40,This isn't your first rodeo… Doubles the rate you get your combo.
+Gloves,1,0,1,0,5,20,Gives some padding and plus some extra weight to throw around.
+Banana Peel,0,0,1,25,0,0,Put a surprise in your towel throw…

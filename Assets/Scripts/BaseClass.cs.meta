@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 43e583d047a7b8c49b81291bda483b01
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {fileID: 9120738732384000136, guid: 64c4a56af263fa9429d2566eb4375a85,
+      type: 3}
+  - enemyPrefab: {fileID: 300296311124886563, guid: 08b8896435387d9409a4b3f671ff9ddb,
+      type: 3}
+  - txtPrefab: {fileID: 1690078131782818273, guid: 88e7588176f65d348827facc557f07eb,
+      type: 3}
+  - player: {instanceID: 0}
+  - healthbar: {fileID: 1690078131782818273, guid: 88e7588176f65d348827facc557f07eb,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
